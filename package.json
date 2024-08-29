@@ -1,0 +1,36 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mattplays/waifu.js": "^1.1.0",
+    "@types/node": "^18.0.6",
+    "anime-actions": "^2.1.2",
+    "axios": "^1.7.3",
+    "discord-hentai": "^1.1.1",
+    "discord-nsfw": "^1.3.0",
+    "discord-phub": "^1.0.7",
+    "discord-slink": "^1.2.6",
+    "discord.js": "^13.17.1",
+    "hercai": "^12.3.2",
+    "kinakoneko": "^1.0.4",
+    "megadb": "^3.4.0",
+    "nekobot-api": "^2.1.0",
+    "nekos.life": "^3.0.0",
+    "node-fetch": "^3.3.2",
+    "node-hitomi": "^8.0.3",
+    "nsfwhub": "^0.0.2",
+    "r34-module": "^1.3.1",
+    "shentai": "^2.0.7",
+    "ultimate-nsfw": "^1.1.4",
+    "waifu-dot-pics": "^1.0.0",
+    "wantnsfwapi": "^1.3.2"
+  }
+}

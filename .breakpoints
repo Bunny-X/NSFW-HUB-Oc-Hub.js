@@ -1,0 +1,20 @@
+{
+  "files": {
+    "comandos/cum.js": [
+      {
+        "id": "97401119-e730-44b1-8cb7-4166b9580814",
+        "line": 17,
+        "version": 697,
+        "index": 610
+      }
+    ],
+    "index.js": [
+      {
+        "id": "bc3a8ff0-c242-4e64-8eed-249a5edae4c2",
+        "line": 2,
+        "version": 2148,
+        "index": 88
+      }
+    ]
+  }
+}

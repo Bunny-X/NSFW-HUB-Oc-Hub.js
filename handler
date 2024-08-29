@@ -1,0 +1,17 @@
+const Discord = require('discord.js');
+const color = "cc2929";
+
+module.exports = {
+  name: "",
+  alias: [""],
+
+execute (client, message, args){
+
+
+
+
+
+
+ }
+
+}
